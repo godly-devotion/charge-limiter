@@ -1,4 +1,5 @@
 # charge-limiter
+
 Set charge limit for MacBooks.
 
 ## Description
@@ -10,6 +11,7 @@ The source code can be viewed by opening `src/charge-limiter.app` in Script Edit
 The companion `smcutil` binary (located under `src/charge-limiter.app/Contents/Resources/Scripts`) was copied from [this repository](https://github.com/sicreative/BatteryStatusShow/blob/master/BatteryStatusShow/smcutil/Products/usr/local/bin/smcutil). The source code for `smcutil` is also available there.
 
 ## Releases
+
 Download the latest version from the [releases](https://github.com/godly-devotion/charge-limiter/releases) page.
 
 ## Running
