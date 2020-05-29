@@ -14,6 +14,10 @@ The companion `smcutil` binary (located under `src/charge-limiter.app/Contents/R
 
 Download the latest version from the [releases](https://github.com/godly-devotion/charge-limiter/releases) page.
 
+## Updates
+
+This app will automatically check and notify you for any updates when you run it.
+
 ## Running
 
-The app is not code signed so you need to right-click on the app and select Open to bypass Gatekeeper's warning.
+The app is not code signed so you need to right-click on the app and select "Open" to bypass Gatekeeper's warning.
