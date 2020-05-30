@@ -4,9 +4,9 @@ Set charge limit for MacBooks.
 
 ## Description
 
-This utility is written in Javascript Application Scripting (or JXA) using Apple's Script Editor.
+This app modifies a parameter called `BCLM` (presumably "Battery Charging Level Max") in the SMC which limits the charge of the battery to a set value.
 
-The source code can be viewed by opening `src/charge-limiter.app` in Script Editor.
+The source code can be viewed by opening `src/charge-limiter.app` in Apple's Script Editor. It is written in Javascript Application Scripting (or JXA).
 
 The companion `smcutil` binary (located under `src/charge-limiter.app/Contents/Resources`) was copied from [this repository](https://github.com/sicreative/BatteryStatusShow/blob/master/BatteryStatusShow/smcutil/Products/usr/local/bin/smcutil). The source code for `smcutil` is also available there.
 
