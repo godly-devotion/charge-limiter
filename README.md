@@ -4,7 +4,7 @@ Set charge limit for MacBooks.
 
 ## Description
 
-This app modifies a parameter called `BCLM` (presumably "Battery Charging Level Max") in the SMC which limits the charge of the battery to a set value.
+This app modifies a parameter called `BCLM` (presumably "Battery Charge Level Max") in the SMC which limits the charge of the battery to a set value.
 
 The source code can be viewed by opening `src/Charge Limiter.app` in Apple's Script Editor. It is written in Javascript Application Scripting (or JXA).
 
