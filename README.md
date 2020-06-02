@@ -1,6 +1,6 @@
 # Charge Limiter
 
-Set charge limit for MacBooks.
+Set battery charge limit for MacBooks.
 
 ## Description
 
