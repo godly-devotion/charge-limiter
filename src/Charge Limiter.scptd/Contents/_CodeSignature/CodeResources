@@ -8,14 +8,6 @@
 		<data>
 		gV0hmyTWZkNkR8Xx++YxWr0WG04=
 		</data>
-		<key>Resources/applet.icns</key>
-		<data>
-		sINd6lbiqHD5dL8c6u79cFvVXhw=
-		</data>
-		<key>Resources/applet.rsrc</key>
-		<data>
-		HDKLdsqT9cm9wBeKQeF1Gb+1mM0=
-		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
 		ZNlmbZciELBioKphPqoFPT5NHno=
@@ -36,28 +28,6 @@
 			<key>hash2</key>
 			<data>
 			Dz8FcQRNpmlfMv72eOGSCw0o7vOVaT/Cq4vHA3r1F0U=
-			</data>
-		</dict>
-		<key>Resources/applet.icns</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sINd6lbiqHD5dL8c6u79cFvVXhw=
-			</data>
-			<key>hash2</key>
-			<data>
-			J7weZ6vlnv9r32tS5HFcyuPXl2StdDnfepLxAixlryk=
-			</data>
-		</dict>
-		<key>Resources/applet.rsrc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HDKLdsqT9cm9wBeKQeF1Gb+1mM0=
-			</data>
-			<key>hash2</key>
-			<data>
-			IcqPVwqEqhY0fdEVQfrLWfo32zLa23RQNuHv679nw60=
 			</data>
 		</dict>
 		<key>Resources/description.rtfd/TXT.rtf</key>

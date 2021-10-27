@@ -6,22 +6,14 @@
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
-	<key>CFBundleExecutable</key>
-	<string>applet</string>
-	<key>CFBundleIconFile</key>
-	<string>applet</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.godly-devotion.charge-limiter</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>Charge Limiter</string>
-	<key>CFBundlePackageType</key>
-	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.4</string>
-	<key>CFBundleSignature</key>
-	<string>aplt</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
