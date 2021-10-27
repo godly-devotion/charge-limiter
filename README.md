@@ -8,7 +8,7 @@ This app modifies a parameter called `BCLM` (presumably "Battery Charge Level Ma
 
 The source code can be viewed by opening `src/Charge Limiter.app` in Apple's Script Editor. It is written in Javascript Application Scripting (or JXA).
 
-The companion `smcutil` binary (located under `src/Charge Limiter.app/Contents/Resources`) was copied from [this repository](https://github.com/sicreative/BatteryStatusShow/blob/master/BatteryStatusShow/smcutil/Products/usr/local/bin/smcutil). The source code for `smcutil` is also available there.
+The companion `smcutil` binary (located under `src/Charge Limiter.app/Contents/Resources`) was copied from [this repository](https://github.com/sicreative/BatteryStatusShow/blob/master/BatteryStatusShow/smcutil). The source code for `smcutil` is also available there.
 
 ## Releases
 
