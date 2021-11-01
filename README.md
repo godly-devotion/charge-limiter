@@ -6,9 +6,9 @@ macOS app to set battery charge limit for Intel MacBooks
 
 This app modifies a parameter called `BCLM` (presumably "Battery Charge Level Max") in the SMC which limits the charge of the battery to a set value. It also modifies a parameter called `BFCL` ("Battery Final Charge Level") which controls the MagSafe LED indicator light to display the correct status.
 
-The source code can be viewed by opening `src/Charge Limiter.scptd` in Apple's Script Editor. It is written in Javascript Application Scripting (or JXA).
+The source code can be viewed by opening `src/Charge Limiter.app` in Apple's Script Editor. It is written in Javascript Application Scripting (or JXA).
 
-The companion `smcutil` binary (located under `src/Charge Limiter.scptd/Contents/Resources`) was copied from [this repository](https://github.com/sicreative/BatteryStatusShow/blob/master/BatteryStatusShow/smcutil). The source code for `smcutil` is also available there.
+The companion `smcutil` binary (located under `src/Charge Limiter.app/Contents/Resources`) was copied from [this repository](https://github.com/sicreative/BatteryStatusShow/blob/master/BatteryStatusShow/smcutil). The source code for `smcutil` is also available there.
 
 ## Releases
 
